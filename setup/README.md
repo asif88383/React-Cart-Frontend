@@ -1,5 +1,5 @@
 <div align="center">
-<h1>React Responsive-Cart Frontend</h1>
+<h1>React useReducer-Cart Frontend</h1>
    <div align="center">
     <img src="preview1.png" width='700'/>
     <br/>
